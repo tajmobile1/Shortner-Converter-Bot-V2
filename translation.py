@@ -37,7 +37,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of ""Grolink** than **contact** at 👉 @Md_Matin_Ashraf (all **shortners support** available.)**
+If You Want Any Help Related **GroLink** Than **contact** at 👉 @RTG_Network
 '''
 
 ABOUT_TEXT = '''**Hey! My Name Is @GrolinkConvertorBot. I am Grolink Link Converter Bot.**
@@ -56,7 +56,7 @@ ABOUT_TEXT = '''**Hey! My Name Is @GrolinkConvertorBot. I am Grolink Link Conver
 
 • **No** need to share **password or email** to convert links.**
 
- Anyone who want to use any **other shortner** instead of Grolink than **contact** at 👉 @Md_Matin_Ashraf (all **shortners support** available.)
+ Anyone who want to use any **GroLink**  than **contact** at 👉 @RTG_Network
 
 **Click On Custom Alias To Create Custom Link**
 '''
