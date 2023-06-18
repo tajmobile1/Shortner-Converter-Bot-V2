@@ -18,7 +18,7 @@ Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any **Other Shortner** Link Converter Bot Instead Of Grolink than **contact** at 👉 @Md_Matin_Ashraf (all **shortners** support available.)
+If You Want Any Help Related **GroLink** than **contact** at 👉 @RTG_Network
 '''
 
 HELP_MESSAGE = '''**Hello, {}
