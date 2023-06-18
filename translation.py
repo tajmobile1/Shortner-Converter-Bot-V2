@@ -14,7 +14,7 @@ I Am Grolink.in, Bulk Link Converter. I Can Convert Links Directly From Your Gro
 Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
-**💁‍♀️ Hit** 👉 /help To Get Help.
+**➕ Hit** 👉 /BANNER_IMAGE To Replace Post Images
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
@@ -33,7 +33,6 @@ I Am ShortnerFly, Bulk Link Converter Bot. I Can Convert Links Directly From You
 Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
-**💁‍♀️ Hit** 👉 /help To Get Help.
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
