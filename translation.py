@@ -3,47 +3,47 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 
 START_MESSAGE = '''**Hello, {}
-I Am Grolink.in, Bulk Link Converter. I Can Convert Links Directly From Your Grolink Account,
+I Am Tajlink.com, Bulk Link Converter. I Can Convert Links Directly From Your Tajlink Account,
     
-1. Go To 👉 https://Grolink.in/member/tools/api  
+1. Go To 👉 https://Tajlink.com/member/tools/api  
 2. Than Copy API Key
 3. Than Type /api than give a single space and than paste your API Key (see example to understand more...)**
 
 **/api(space)API Key 
 (See Example.👇)
-Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
+Example:** `/api 4da29902b1ee99bd299d02d3e2bf25c22c62d06e `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
 **➕ Hit** 👉 /BANNER_IMAGE To Replace Post Images
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any Help Related **GroLink** than **contact** at 👉 @RTG_Network
+If You Want Any Help Related **TajLink** than **contact** at 👉 @technical_taj
 '''
 
 HELP_MESSAGE = '''**Hello, {}
-I Am ShortnerFly, Bulk Link Converter Bot. I Can Convert Links Directly From Your Grolink Account,**
+I Am Tajlink.com, Bulk Link Converter Bot. I Can Convert Links Directly From Your Tajlink Account,**
     
-1. Go To 👉 https://Grolink.in/member/tools/api  
+1. Go To 👉 https://tajlink.com/member/tools/api  
 2. Than **Copy API** Key
 3. Than Type **/api** than give a **single space** and than **paste** your **API** Key (**see example** to understand more...)
 
 **/api(space)API Key 
 (See Example.👇)
-Example:** `/api de303d5270f481aec928f39883da7b7f9a8812ac `
+Example:** `/api 4da29902b1ee99bd299d02d3e2bf25c22c62d06e `
 
 **➕ Hit** 👉 /Features To Know More Features Of This Bot.
 **➕ Hit** 👉 /channel Command To Get Help About Adding your channel to bot.
 **➕ Hit** 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
-If You Want Any Help Related **GroLink** Than **contact** at 👉 @RTG_Network
+If You Want Any Help Related **TajLink** Than **contact** at 👉 @technical_taj
 '''
 
-ABOUT_TEXT = '''**Hey! My Name Is @GrolinkConvertorBot. I am Grolink Link Converter Bot.**
+ABOUT_TEXT = '''**Hey! My Name Is @TajlinkConvert_Bot. I am Tajlink Link Converter Bot.**
 
 **⚡Features⚡**
 
-• I can **Convert any** links or posts to your **Grolink** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
+• I can **Convert any** links or posts to your **Tajlink** link / post. (Button Links Posts, Hidden links/Hyperlinks All Are Supported)
 
 • I Can **auto** add custom **footer text** to your every post. Hit 👉 /footer To know more...
 
@@ -55,7 +55,7 @@ ABOUT_TEXT = '''**Hey! My Name Is @GrolinkConvertorBot. I am Grolink Link Conver
 
 • **No** need to share **password or email** to convert links.**
 
- Anyone who want to use any **GroLink**  than **contact** at 👉 @RTG_Network
+ Anyone who want to use any **TajLink**  than **contact** at 👉 @technical_taj
 
 **Click On Custom Alias To Create Custom Link**
 '''
@@ -64,7 +64,7 @@ CUSTOM_ALIAS_MESSAGE = """For Custom Alias, `[link] | [custom_alias]`, Send in t
 
 This feature works only in private mode only
 
-Ex: https://t.me/Grolink_Official_Channel | Grolink"""
+Ex: https://t.me/tajlinkofficial | Tajlink"""
 
 
 ADMINS_MESSAGE = """
@@ -95,7 +95,7 @@ HELP_REPLY_MARKUP = InlineKeyboardMarkup([
 
 START_MESSAGE_REPLY_MARKUP  = InlineKeyboardMarkup([
     [
-        InlineKeyboardButton('Get Api', url=f'https://Grolink.in/member/tools/api')
+        InlineKeyboardButton('Get Api', url=f'https://tajlink.com/member/tools/api')
     ]
 ])
 
@@ -109,7 +109,7 @@ BACK_REPLY_MARKUP = InlineKeyboardMarkup([
 ])
 
 USER_ABOUT_MESSAGE = """
-- Website: [{base_site}](https://grolink.in/ref/MdMatinAshraf)
+- Website: [{base_site}](https://tajlink.com/ref/tajlinkowner)
 
 - Site Link {base_site} Current Linked API: {shortener_api}
 
@@ -128,9 +128,9 @@ USER_ABOUT_MESSAGE = """
 SHORTENER_API_MESSAGE = """To add or update your Shortner Website API, 
 `/set_api [api]`
             
-Ex: `/api de303d5270f481aec928f39883da7b7f9a8812ac `
+Ex: `/api 4da29902b1ee99bd299d02d3e2bf25c22c62d06e `
 
-Get API From [{base_site}](https://grolink.in/ref/MdMatinAshraf)
+Get API From [{base_site}](https://tajlink.com/ref/tajlinkowner)
 
 Current {base_site} API: `{shortener_api}`"""
 
@@ -148,18 +148,18 @@ This Text will be added to the **bottom** of every message **caption** or text
 For adding **line break** use \n
 To Remove Footer Text: `/footer remove`"""
 
-USERNAME_TEXT = """**Hello Harman, I am Grolink.in, Bulk Link Converter Bot From Linked Grolink.in Account,**
+USERNAME_TEXT = """**Hello Technical Taj, I am Tajlink.com, Bulk Link Converter Bot From Linked Tajlink.com Account,**
 
 **🌟 Type** /channel (channel link or username)
 
 **example:**
 /channel @Grolink_Official_Channel
 Or
-/channel https://t.me/Grolink_Official_Channel
+/channel https://t.me/tajlinkofficial
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
-**- Message @RTG_Network For More Help -**"""
+**- Message @technical_taj For More Help -**"""
 
 BANNER_IMAGE = """
 Usage: `/banner_image image_url` or reply to any Image with this command
