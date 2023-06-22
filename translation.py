@@ -153,9 +153,9 @@ USERNAME_TEXT = """**Hello Technical Taj, I am Tajlink.com, Bulk Link Converter 
 **🌟 Type** /channel (channel link or username)
 
 **example:**
-/channel @Grolink_Official_Channel
+/channel @technicaltaj
 Or
-/channel https://t.me/tajlinkofficial
+/channel @thetechnicaltaj
 
 **🤘 Hit** 👉 /features To Know More Features Of This Bot.
 
